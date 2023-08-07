@@ -7,7 +7,7 @@
 .d1{
 	height: 400px;
 	width: 800px;
-	background-image:url('../cap images/img17.webp');
+	background-image:url('cap images/img17.webp');
 	text-align: center;
 	background-position-x: 5px;
     color: yellow;
@@ -128,7 +128,7 @@
 .d4a{
 	height: 300px;
 	width: 300px;
-	background-image: url('../cap images/ex.jpg');
+	background-image: url('cap images/ex.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 	float: left;
@@ -205,7 +205,7 @@
 	height: 400px;
 	width: 400px;
     border-radius: 100%;
-	background-image: url('../cap images/img7.webp');
+	background-image: url('cap images/img7.webp');
 	background-size: cover;
 	float: left;
 
@@ -263,7 +263,7 @@
 .d7a{
 	height:300px;
 	width: 300px;
-	background-image: url('../cap images/img11.webp');
+	background-image: url('cap images/img11.webp');
 	background-repeat: no repeat;
 	background-size: cover;
    float:right;
@@ -273,7 +273,7 @@
 .d7b{
 	height:300px;
 	width: 300px;
-   background-image: url('../cap images/img7.webp');
+   background-image: url('cap images/img7.webp');
 	background-repeat: no repeat;
 	background-size: cover;
 	margin-left: 80px;
@@ -295,7 +295,7 @@
 .d8a1{
 	height: 200px;
 	width:200px ;
-	background-image: url('../cap images/img8.webp');
+	background-image: url('cap images/img8.webp');
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-left: 20px;
@@ -306,7 +306,7 @@
 	margin-left: 20px;
 	height: 200px;
 	width:200px ;
-	background-image: url('../cap images/img10.jpg');
+	background-image: url('cap images/img10.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-left: 20px;
@@ -338,7 +338,7 @@ span{
 	height: 400px;
 	width: 400px;
 	background-color: darkblue;
-	background-image: url('../cap images/img12.webp');
+	background-image: url('cap images/img12.webp');
 	float: right;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -377,7 +377,7 @@ span{
 .d10a{
 	height:300px;
 	width: 400px;
-	background-image:url('../cap images/img14.webp');
+	background-image:url('cap images/img14.webp');
    margin-top: 100px;
    background-size: cover;
    background-repeat: no-repeat;
